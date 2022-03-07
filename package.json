@@ -1,0 +1,27 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "practice writing unit tests for jest",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThunderKlappe/testing-practice.git"
+  },
+  "author": "Tim Schley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThunderKlappe/testing-practice/issues"
+  },
+  "homepage": "https://github.com/ThunderKlappe/testing-practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.11",
+    "eslint": "^8.10.0",
+    "jest": "^27.5.1"
+  }
+}
